@@ -1,7 +1,8 @@
 # EasyE4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
-It is a simple test truing to connect angular aplication with WebServer working on Eaton Easy PLC
+
+It is a simple test trying to connect angular aplication with WebServer working on Eaton Easy PLC
  
 ## Development server
 
